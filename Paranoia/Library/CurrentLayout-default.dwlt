@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 592}
+  m_MinSize: {x: 875, y: 613}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1357
-  m_MinSize: {x: 875, y: 592}
+  m_MinSize: {x: 875, y: 613}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -118,10 +118,10 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1307
-  m_MinSize: {x: 906, y: 542}
-  m_MaxSize: {x: 22001, y: 12042}
+  m_MinSize: {x: 909, y: 563}
+  m_MaxSize: {x: 22004, y: 12063}
   vertical: 1
-  controlID: 9498
+  controlID: 4251
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,10 +145,10 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1307
-  m_MinSize: {x: 906, y: 542}
-  m_MaxSize: {x: 22001, y: 12042}
+  m_MinSize: {x: 909, y: 563}
+  m_MaxSize: {x: 22004, y: 12063}
   vertical: 0
-  controlID: 9499
+  controlID: 4252
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,10 +171,10 @@ MonoBehaviour:
     y: 0
     width: 1313
     height: 1307
-  m_MinSize: {x: 201, y: 542}
-  m_MaxSize: {x: 4001, y: 12042}
+  m_MinSize: {x: 201, y: 563}
+  m_MaxSize: {x: 4001, y: 12063}
   vertical: 1
-  controlID: 9500
+  controlID: 4253
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -519,7 +519,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 26.161194
     speed: 2
-    m_Value: 25.034636
+    m_Value: 26.161194
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -856,7 +856,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 15620
+  m_LastSelectedObjectID: 14454
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -912,7 +912,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7eeeffff003d0000043d0000
+      m_ExpandedIDs: 40fbffff3c3800006c380000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -986,7 +986,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 32600000
     m_LastClickedID: 24626
-    m_ExpandedIDs: ffffffff00000000e03e0000e23e0000e43e0000e63e0000e83e0000
+    m_ExpandedIDs: ffffffff00000000243a0000263a0000283a00002a3a00002c3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1014,7 +1014,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000e03e0000e23e0000e43e0000e63e0000e83e0000
+    m_ExpandedIDs: ffffffff00000000243a0000263a0000283a00002a3a00002c3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

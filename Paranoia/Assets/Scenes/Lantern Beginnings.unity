@@ -299,7 +299,7 @@ MonoBehaviour:
   scatteringBias: 0
   useColorTemperatureTint: 0
   overrideColor: 0
-  overridingColor: {r: 1, g: 1, b: 1, a: 1}
+  overridingColor: {r: 0.999999, g: 0.5811168, b: 0.29488152, a: 1}
   useShadow: 1
   useCookie: 1
   cookieMapRenderTexture: {fileID: 0}
@@ -324,7 +324,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 0.9315592, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.94165385, b: 0, a: 1}
   m_Intensity: 3
   m_Range: 5
   m_SpotAngle: 30
@@ -541,7 +541,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 0.9315592, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.94165385, b: 0, a: 1}
   m_Intensity: 5
   m_Range: 0.5
   m_SpotAngle: 30
@@ -1475,7 +1475,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 0.9315592, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.94165385, b: 0, a: 1}
   m_Intensity: 5
   m_Range: 0.5
   m_SpotAngle: 30
@@ -1567,7 +1567,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 0.9315592, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.94165385, b: 0, a: 1}
   m_Intensity: 5
   m_Range: 0.5
   m_SpotAngle: 30
@@ -2040,7 +2040,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 0.9315592, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.94165385, b: 0, a: 1}
   m_Intensity: 5
   m_Range: 0.5
   m_SpotAngle: 30
