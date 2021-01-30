@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
+    public GameObject playerObject;
+
     public Transform pivot;
     public Vector3 offset;
 
@@ -19,4 +21,12 @@ public class CameraController : MonoBehaviour
     {
         transform.position = Vector3.Lerp(transform.position, pivot.position + offset, 0.1f);
     }
+
+    public void CameraFix()
+    {
+        transform.parent = playerObject.transform;
+        enabled = true;
+        GetComponent<MouseLook>().enabled = true;
+    }
+
 }

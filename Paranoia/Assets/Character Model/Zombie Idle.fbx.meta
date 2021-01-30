@@ -6,7 +6,12 @@ ModelImporter:
   - first:
       74: -203655887218126122
     second: mixamo.com
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zombie_COL
+    second: {fileID: 967286663475727541, guid: e21b5f688a493df42b5dbce6793eea89, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
