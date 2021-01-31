@@ -8,7 +8,7 @@ public class LanternController : MonoBehaviour
     
     bool moving;
 
-    List<Transform> waypoints = new List<Transform>();
+    public List<Transform> waypoints = new List<Transform>();
     int currWaypoint = -1;
 
     public float lerpTime;
@@ -16,12 +16,6 @@ public class LanternController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameObject[] waypointArray = GameObject.FindGameObjectsWithTag("Point");
-
-        foreach(GameObject o in waypointArray)
-        {
-            waypoints.Add(o.transform);
-        }
     }
 
    IEnumerator Move()

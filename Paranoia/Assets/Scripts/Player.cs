@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+
+
     protected CharacterController controller;
     protected Rigidbody rb;
 
@@ -24,6 +26,9 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
         Physics.IgnoreLayerCollision(8, 8, true);
 
         controller = GetComponent<CharacterController>();
