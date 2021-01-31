@@ -6,12 +6,7 @@ ModelImporter:
   - first:
       74: -203655887218126122
     second: mixamo.com
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: parasitezombie_Material
-    second: {instanceID: 0}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0

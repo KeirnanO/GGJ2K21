@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
 guid: a71286b64cf58704f95e9fa1b6fb2a93
-=======
-guid: 1a363adbc97db1f408a595361b3210b9
->>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -57,21 +53,13 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 1
-<<<<<<< Updated upstream
   textureShape: 1
-=======
-  textureShape: 2
->>>>>>> Stashed changes
   singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-<<<<<<< Updated upstream
   applyGammaDecoding: 0
-=======
-  applyGammaDecoding: 1
->>>>>>> Stashed changes
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
