@@ -1,5 +1,6 @@
 Base path: 'D:/Unity Engines/2020.1.4f1/Editor/Data', plugins path 'D:/Unity Engines/2020.1.4f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+<<<<<<< Updated upstream
 Cmd: compileSnippet
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -42,3 +43,7 @@ Cmd: compileComputeKernel
 
 Quitting shader compiler process
 >>>>>>> parent of e829b46e... Main Menu Music Edit
+=======
+
+Quitting shader compiler process
+>>>>>>> Stashed changes
