@@ -1,5 +1,6 @@
 Base path: 'D:/Unity Engines/2020.1.4f1/Editor/Data', plugins path 'D:/Unity Engines/2020.1.4f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -12,6 +13,8 @@ Cmd: compileSnippet
 =======
 >>>>>>> d6c478d53cfd1874bdcc93536d603343b6703825
 <<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
