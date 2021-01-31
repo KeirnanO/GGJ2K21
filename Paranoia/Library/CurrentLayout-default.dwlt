@@ -14,34 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 8
-    y: 51
-    width: 2544
-    height: 1341
+    x: 0
+    y: 43
+    width: 1920
+    height: 997
   m_ShowMode: 4
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
-=======
-  m_Title: Hierarchy
-  m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 613}
->>>>>>> Stashed changes
-=======
-  m_Title: Console
-  m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 571}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  m_Title: Hierarchy
-  m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 592}
->>>>>>> Stashed changes
+  m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 0
+  m_Maximized: 1
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -62,27 +44,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
-=======
-    width: 2544
-    height: 1341
-  m_MinSize: {x: 875, y: 613}
->>>>>>> Stashed changes
-=======
-    width: 2544
-    height: 1341
-  m_MinSize: {x: 875, y: 571}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    width: 2544
-    height: 1341
-  m_MinSize: {x: 875, y: 592}
->>>>>>> Stashed changes
+  m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -105,32 +69,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 2544
+    width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LoadedToolbars:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   - {fileID: 17}
   m_MainToolbar: {fileID: 17}
   m_LastLoadedLayoutName: 2 by 3
-=======
-  - {fileID: 23}
-  m_MainToolbar: {fileID: 23}
-  m_LastLoadedLayoutName: 
->>>>>>> Stashed changes
-=======
-  - {fileID: 22}
-  m_MainToolbar: {fileID: 22}
-  m_LastLoadedLayoutName: 
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 20}
-  m_MainToolbar: {fileID: 20}
-  m_LastLoadedLayoutName: 
->>>>>>> Stashed changes
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,8 +93,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 1321
-    width: 2544
+    y: 977
+    width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -166,44 +112,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 6}
+  - {fileID: 9}
   - {fileID: 10}
   - {fileID: 11}
-  - {fileID: 12}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 30
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     width: 1920
     height: 947
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 2163
-=======
-=======
->>>>>>> Stashed changes
-    width: 2544
-    height: 1291
-  m_MinSize: {x: 911, y: 542}
-  m_MaxSize: {x: 22006, y: 12042}
-  vertical: 0
-<<<<<<< Updated upstream
-  controlID: 81134
->>>>>>> Stashed changes
-=======
-    width: 2544
-    height: 1291
-  m_MinSize: {x: 910, y: 521}
-  m_MaxSize: {x: 22006, y: 12021}
-  vertical: 0
-  controlID: 344
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  controlID: 3935
->>>>>>> Stashed changes
+  controlID: 1307
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,43 +140,16 @@ MonoBehaviour:
   m_Children:
   - {fileID: 7}
   - {fileID: 8}
-  - {fileID: 9}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    width: 906
+    width: 907
     height: 947
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 2329
-=======
-    width: 1726
-=======
-    width: 1549
->>>>>>> Stashed changes
-    height: 1291
-  m_MinSize: {x: 201, y: 542}
-  m_MaxSize: {x: 4001, y: 12042}
-  vertical: 1
-<<<<<<< Updated upstream
-  controlID: 81139
->>>>>>> Stashed changes
-=======
-    width: 1483
-    height: 1291
-  m_MinSize: {x: 200, y: 521}
-  m_MaxSize: {x: 4001, y: 12021}
-  vertical: 1
-  controlID: 349
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  controlID: 4094
->>>>>>> Stashed changes
+  controlID: 1364
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,53 +160,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: 
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    width: 906
+    width: 907
     height: 486
-=======
-    width: 1726
-    height: 599
->>>>>>> Stashed changes
-=======
-    width: 1483
-    height: 432
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    width: 1549
-    height: 521
->>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 13}
   m_Panes:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   - {fileID: 13}
-=======
-  - {fileID: 14}
-  - {fileID: 15}
-  - {fileID: 16}
-  - {fileID: 17}
->>>>>>> Stashed changes
-=======
-  - {fileID: 14}
-  - {fileID: 15}
-  - {fileID: 16}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 14}
-  - {fileID: 15}
->>>>>>> Stashed changes
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &8
@@ -323,7 +184,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 0
+  m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: GameView
   m_EditorClassIdentifier: 
@@ -331,48 +192,16 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     y: 486
-    width: 906
+    width: 907
     height: 461
-=======
-    y: 599
-    width: 1726
-    height: 436
->>>>>>> Stashed changes
-=======
-    y: 432
-    width: 1483
-    height: 603
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    y: 521
-    width: 1549
-    height: 517
->>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 13}
+  m_ActualView: {fileID: 12}
   m_Panes:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   - {fileID: 12}
-=======
-  - {fileID: 13}
-  - {fileID: 18}
->>>>>>> Stashed changes
-=======
-  - {fileID: 13}
-  - {fileID: 17}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 13}
->>>>>>> Stashed changes
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -383,171 +212,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
   m_Name: 
-=======
-=======
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
->>>>>>> Stashed changes
-  m_Name: ConsoleWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 0
-<<<<<<< Updated upstream
-    y: 1035
-<<<<<<< HEAD
-    width: 1726
-    height: 256
-=======
-    y: 1038
-    width: 1549
-    height: 253
->>>>>>> Stashed changes
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 16}
+    x: 907
+    y: 0
+    width: 309
+    height: 947
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 14}
   m_Panes:
-<<<<<<< Updated upstream
-  - {fileID: 19}
-=======
-    width: 1483
-    height: 256
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 18}
-  m_Panes:
-  - {fileID: 18}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 16}
->>>>>>> Stashed changes
+  - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &10
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneHierarchyWindow
-<<<<<<< Updated upstream
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
->>>>>>> Stashed changes
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    x: 906
-=======
-    x: 1483
->>>>>>> parent of e829b46e... Main Menu Music Edit
-    y: 0
-    width: 239
-    height: 1291
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 19}
-  m_Panes:
-<<<<<<< HEAD
-  - {fileID: 14}
-=======
-    x: 1726
-    y: 0
-    width: 212
-=======
-    x: 1549
-    y: 0
-    width: 309
->>>>>>> Stashed changes
-    height: 1291
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-<<<<<<< Updated upstream
-  - {fileID: 20}
->>>>>>> Stashed changes
-=======
-  - {fileID: 19}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 17}
->>>>>>> Stashed changes
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &11
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    x: 1214
-=======
-    x: 1722
->>>>>>> parent of e829b46e... Main Menu Music Edit
-    y: 0
-    width: 245
-    height: 1291
-  m_MinSize: {x: 232, y: 271}
-  m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 20}
-  m_Panes:
-<<<<<<< HEAD
-  - {fileID: 15}
-=======
-    x: 1938
-    y: 0
-    width: 232
-=======
-    x: 1858
-    y: 0
-    width: 342
->>>>>>> Stashed changes
-    height: 1291
-  m_MinSize: {x: 232, y: 271}
-  m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 18}
-  m_Panes:
-<<<<<<< Updated upstream
-  - {fileID: 21}
->>>>>>> Stashed changes
-=======
-  - {fileID: 20}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 18}
->>>>>>> Stashed changes
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -562,46 +243,44 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    x: 1489
-=======
-    x: 1967
->>>>>>> parent of e829b46e... Main Menu Music Edit
+    x: 1216
     y: 0
-    width: 577
-    height: 1291
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 21}
+    width: 275
+    height: 947
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 15}
   m_Panes:
-<<<<<<< HEAD
-  - {fileID: 16}
-=======
-    x: 2170
-=======
-    x: 2200
->>>>>>> Stashed changes
-    y: 0
-    width: 344
-    height: 1291
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 19}
-  m_Panes:
-<<<<<<< Updated upstream
-  - {fileID: 22}
->>>>>>> Stashed changes
-=======
-  - {fileID: 21}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  - {fileID: 19}
->>>>>>> Stashed changes
+  - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &13
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1491
+    y: 0
+    width: 429
+    height: 947
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -621,31 +300,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     x: 0
     y: 559
-    width: 905
+    width: 906
     height: 440
-=======
-    x: 8
-    y: 680
-    width: 1725
-    height: 415
->>>>>>> Stashed changes
-=======
-    x: 8
-    y: 513
-    width: 1482
-    height: 582
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    x: 8
-    y: 602
-    width: 1548
-    height: 496
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -653,19 +311,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  m_TargetSize: {x: 905, y: 419}
-=======
-  m_TargetSize: {x: 1725, y: 394}
->>>>>>> Stashed changes
-=======
-  m_TargetSize: {x: 1482, y: 561}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  m_TargetSize: {x: 1548, y: 475}
->>>>>>> Stashed changes
+  m_TargetSize: {x: 1920, y: 1080}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -674,37 +320,16 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    m_HBaseRangeMin: -452.5
-    m_HBaseRangeMax: 452.5
-    m_VBaseRangeMin: -209.5
-    m_VBaseRangeMax: 209.5
-=======
-    m_HBaseRangeMin: -862.5
-    m_HBaseRangeMax: 862.5
-    m_VBaseRangeMin: -197
-    m_VBaseRangeMax: 197
->>>>>>> Stashed changes
-=======
-    m_HBaseRangeMin: -741
-    m_HBaseRangeMax: 741
-    m_VBaseRangeMin: -280.5
-    m_VBaseRangeMax: 280.5
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    m_HBaseRangeMin: -774
-    m_HBaseRangeMax: 774
-    m_VBaseRangeMin: -237.5
-    m_VBaseRangeMax: 237.5
->>>>>>> Stashed changes
+    m_HBaseRangeMin: -960
+    m_HBaseRangeMax: 960
+    m_VBaseRangeMin: -540
+    m_VBaseRangeMax: 540
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -722,80 +347,29 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-      width: 905
+      width: 906
       height: 419
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 452.5, y: 209.5}
-=======
-      width: 1725
-      height: 394
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 862.5, y: 197}
->>>>>>> Stashed changes
-=======
-      width: 1482
-      height: 561
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 741, y: 280.5}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-      width: 1548
-      height: 475
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 774, y: 237.5}
->>>>>>> Stashed changes
+    m_Scale: {x: 0.38796297, y: 0.38796297}
+    m_Translation: {x: 453, y: 209.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-      x: -452.5
-      y: -209.5
-      width: 905
-      height: 419
+      x: -1167.6372
+      y: -540
+      width: 2335.2744
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 905, y: 440}
-=======
-      x: -862.5
-      y: -197
-      width: 1725
-      height: 394
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1725, y: 415}
->>>>>>> Stashed changes
-=======
-      x: -741
-      y: -280.5
-      width: 1482
-      height: 561
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1482, y: 582}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-      x: -774
-      y: -237.5
-      width: 1548
-      height: 475
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1548, y: 496}
->>>>>>> Stashed changes
+  m_defaultScale: 0.38796297
+  m_LastWindowPixelSize: {x: 906, y: 440}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
---- !u!114 &14
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -815,37 +389,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     x: 0
     y: 73
-    width: 905
+    width: 906
     height: 465
-=======
-    x: 8
-    y: 81
-    width: 1725
-    height: 578
->>>>>>> Stashed changes
-=======
-    x: 8
-    y: 81
-    width: 1482
-    height: 411
->>>>>>> parent of e829b46e... Main Menu Music Edit
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
-  m_WindowGUID: 773c89bfc5d4b3b4abc8f554ba616938
-=======
-    x: 8
-    y: 81
-    width: 1548
-    height: 500
-  m_ViewDataDictionary: {fileID: 0}
-  m_ShowContextualTools: 0
-  m_WindowGUID: edc0241d6628f024c8dc1811aaebf1f1
->>>>>>> Stashed changes
+  m_WindowGUID: 0b1ceb698aa4fc2469a89c310b89ec0a
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
@@ -855,27 +405,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    m_Target: {x: 45.278812, y: 2.1789892, z: 48.026524}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 45.278812, y: 2.1789892, z: 48.026524}
-=======
-    m_Target: {x: 21.172344, y: -0.81032753, z: 12.948126}
-    speed: 2
-    m_Value: {x: 21.172344, y: -0.81032753, z: 12.948126}
->>>>>>> Stashed changes
-=======
-    m_Target: {x: 77.440704, y: -0.015729904, z: 21.037586}
-    speed: 2
-    m_Value: {x: 77.440704, y: -0.015729904, z: 21.037586}
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    m_Target: {x: 13.61898, y: 1.6033661, z: 24.267792}
-    speed: 2
-    m_Value: {x: 13.61898, y: 1.6033661, z: 24.267792}
->>>>>>> Stashed changes
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -922,41 +454,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    m_Target: {x: 0.00029930566, y: -0.99968696, z: -0.014686815, w: -0.020389862}
-=======
-    m_Target: {x: 0.23001882, y: 0.7693862, z: -0.43828636, w: 0.4037841}
->>>>>>> parent of e829b46e... Main Menu Music Edit
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: 0.23001882, y: 0.7693862, z: -0.4382864, w: 0.4037841}
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 3.0487056
+    m_Target: 10
     speed: 2
-<<<<<<< HEAD
-    m_Value: 0.08774185
-=======
-    m_Target: {x: 0.38217148, y: 0.49950245, z: -0.26061678, w: 0.73247623}
-    speed: 2
-    m_Value: {x: 0.38405207, y: 0.49691296, z: -0.26021472, w: 0.7333961}
-=======
-    m_Target: {x: -0.42806897, y: -0.5424122, z: 0.37612975, w: -0.6173123}
-    speed: 2
-    m_Value: {x: 0.428069, y: 0.5424122, z: -0.37612975, w: 0.6173123}
->>>>>>> Stashed changes
-  m_Size:
-    m_Target: 1.1893758
-    speed: 2
-<<<<<<< Updated upstream
-    m_Value: 19.285421
->>>>>>> Stashed changes
-=======
-    m_Value: 3.0487056
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    m_Value: 1.1893758
->>>>>>> Stashed changes
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -981,354 +485,7 @@ MonoBehaviour:
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 --- !u!114 &14
-=======
-=======
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
->>>>>>> Stashed changes
---- !u!114 &15
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 400, y: 100}
-  m_MaxSize: {x: 2048, y: 2048}
-  m_TitleContent:
-    m_Text: Asset Store
-    m_Image: {fileID: -8693916549880196297, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    x: 8
-    y: 81
-    width: 1725
-    height: 578
-=======
-    x: 510
-    y: 81
-    width: 1524
-    height: 760
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    x: 468
-    y: 181
-    width: 973
-    height: 501
->>>>>>> Stashed changes
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &16
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-<<<<<<< Updated upstream
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 13953, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 800, y: 250}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Package Manager
-    m_Image: {fileID: -2824328813065806953, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-<<<<<<< HEAD
-    x: 8
-    y: 81
-    width: 1725
-    height: 578
-=======
-    x: 510
-    y: 81
-    width: 1524
-    height: 760
->>>>>>> parent of e829b46e... Main Menu Music Edit
-  m_ViewDataDictionary: {fileID: 0}
-  m_SplitPaneLeftWidth: 300
---- !u!114 &17
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-<<<<<<< HEAD
-  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Animator
-    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 8
-    y: 81
-    width: 1725
-    height: 578
-  m_ViewDataDictionary: {fileID: 0}
-  m_ViewTransforms:
-    m_KeySerializationHelper:
-    - {fileID: -282323690465805384, guid: 1d82737ef2d66414284f6e56058d4b35, type: 2}
-    - {fileID: -4118676808022398684, guid: 736023fed4156384581c405279fd2d5b, type: 2}
-    - {fileID: 1632236532068855217, guid: 0dbb8767fcbdecc4db5819d78668341b, type: 2}
-    - {fileID: 3384704379297503847, guid: b1b282d620bac4348b10615d50c170a2, type: 2}
-    - {fileID: 7730696305731650909, guid: 30977892a54555041b6e813bc1939dc1, type: 2}
-    - {fileID: -6119402256285243290, guid: 43639e77e0dcf9446b6d5b3c631a8024, type: 2}
-    - {fileID: 8788774023249187423, guid: 47f4a1c66b3ae5448b29a77cbc87ac8b, type: 2}
-    - {fileID: -985167362147478710, guid: 64e60a36680506e4ebe5eaba133a8714, type: 2}
-    m_ValueSerializationHelper:
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 65.5
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 189.5
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 65.5
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 209.5
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 65.5
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 219.5
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 65.5
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 234.5
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 65.5
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 184.5
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 65.5
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 204.5
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 0.44370535
-      e01: 0
-      e02: 0
-      e03: 139.10681
-      e10: 0
-      e11: 0.44370535
-      e12: 0
-      e13: 339.43103
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1.2648351
-      e01: 0
-      e02: 0
-      e03: -48.24176
-      e10: 0
-      e11: 1.2648351
-      e12: 0
-      e13: 282.78076
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-  m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 64e60a36680506e4ebe5eaba133a8714, type: 2}
-  m_BreadCrumbs:
-  - m_Target: {fileID: -985167362147478710, guid: 64e60a36680506e4ebe5eaba133a8714, type: 2}
-    m_ScrollPosition: {x: 0, y: 0}
-  stateMachineGraph: {fileID: 0}
-  stateMachineGraphGUI: {fileID: 0}
-  blendTreeGraph: {fileID: 0}
-  blendTreeGraphGUI: {fileID: 0}
-  m_AutoLiveLink: 1
-  m_MiniTool: 0
-  m_LockTracker:
-    m_IsLocked: 0
-  m_CurrentEditor: 1
-  m_LayerEditor:
-    m_SelectedLayerIndex: 0
---- !u!114 &18
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-=======
->>>>>>> parent of e829b46e... Main Menu Music Edit
-  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Animation
-    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 8
-<<<<<<< HEAD
-    y: 680
-    width: 1725
-    height: 415
-  m_ViewDataDictionary: {fileID: 0}
-  m_LockTracker:
-    m_IsLocked: 0
-  m_LastSelectedObjectID: 317100
---- !u!114 &19
-=======
-    y: 513
-    width: 1482
-    height: 582
-  m_ViewDataDictionary: {fileID: 0}
-  m_LockTracker:
-    m_IsLocked: 0
-  m_LastSelectedObjectID: -25034
---- !u!114 &18
->>>>>>> parent of e829b46e... Main Menu Music Edit
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-=======
->>>>>>> Stashed changes
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Console
-    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 8
-<<<<<<< Updated upstream
-    y: 1116
-<<<<<<< HEAD
-    width: 1725
-    height: 235
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &20
->>>>>>> Stashed changes
-=======
-    width: 1482
-    height: 235
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &19
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    y: 1119
-    width: 1548
-    height: 232
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &17
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1348,50 +505,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    x: 906
+    x: 907
     y: 73
-    width: 306
-    height: 926
-=======
-    x: 1734
-=======
-    x: 1557
->>>>>>> Stashed changes
-    y: 81
     width: 307
-    height: 1270
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-    x: 1491
-    y: 81
-    width: 237
-    height: 1270
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
->>>>>>> Stashed changes
+    height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-      m_ExpandedIDs: 7c8dffff8ac20000d8c30000f4c4000044c500004ac5000046c600003ec90000bec90000
-=======
-      m_ExpandedIDs: f44afbffe060fbffe460fbffbc69fbff466bfbff287cfbff6a7dfbff727dfbff547efbffbe8cfbff968dfbff9e8dfbff808efbff329bfbff569cfbff5e9cfbff409dfbff0a0bfcff4e0bfcff7220fcff9220fcffec35fcff0c36fcff5e48fcffac48fcff0c55fcff5055fcff5663fcff7c63fcffba6bfcffd46bfcfff06bfcfff46bfcffe476fcff1677fcff529bfcff3eaefcff5eaefcff90bdfcffa4bdfcffb0cbfcffc8cbfcffe8d6fdff9a43feff2ac5feff2cc5feffa6cefeffa8cefeff1cd6feff1ed6fefff240ffff0e42ffff4844ffffd66affffde6bffff2cc9ffffced9ffffaefaffffbafaffffdefafffffafaffff52fbffff60fbffff208a00004e8a0000149600001c99000020990000624d0300664d0300a0a00300a4a0030050e2030054e2030078d50400
->>>>>>> Stashed changes
-=======
-      m_ExpandedIDs: 7eb2ffff
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-      m_ExpandedIDs: e682fffff482ffff2483ffffd083ffff3084ffff6484ffffde84ffff6488ffff748cffff
->>>>>>> Stashed changes
+      m_ExpandedIDs: 3889ffff6ac70000decb0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1407,30 +531,15 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 10}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  m_WindowGUID: 4b38d47a40c692b408172a91b92e1bcd
+  m_WindowGUID: 5b55ab2776254a845ba1d63d22de17f9
 --- !u!114 &15
-=======
-  m_WindowGUID: f1414ade13d77bf4082cbd71a305ea90
---- !u!114 &21
->>>>>>> Stashed changes
-=======
-  m_WindowGUID: f1414ade13d77bf4082cbd71a305ea90
---- !u!114 &20
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  m_WindowGUID: 3d4ef5f0e87ce9d4a9d89c3892a39fd6
---- !u!114 &18
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1450,31 +559,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    x: 1214
+    x: 1216
     y: 73
     width: 273
     height: 926
-=======
-    x: 1946
-=======
-    x: 1866
->>>>>>> Stashed changes
-    y: 81
-    width: 340
-    height: 1270
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-    x: 1730
-    y: 81
-    width: 243
-    height: 1270
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -1493,34 +581,16 @@ MonoBehaviour:
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PostProcessingVolume/PostProcessing/Editor/PropertyDrawers
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\GGJ2K21\GGJ2K21\Paranoia
+  m_LastProjectPath: D:\Unity Projects\GGJ2K21\Paranoia
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    m_SelectedIDs: 06c10000
-    m_LastClickedID: 49414
-    m_ExpandedIDs: ffffffff0000000054430000564300001e620000386200005062000062620000e6c00000e8c00000eac00000ecc00000eec00000f0c00000f2c00000f4c00000f6c00000f8c00000fac00000fcc00000fec0000000c1000002c1000004c1000006c1000008c100000ac100000cc100000ec1000010c1000012c1000014c1000048c1000000ca9a3b
-=======
-    m_SelectedIDs: d04f0000
-    m_LastClickedID: 20432
-    m_ExpandedIDs: dcf3faffffffffff00000000863c0000cc3f0000ce3f0000d63f0000d83f0000da3f0000dc3f0000de3f0000e03f0000e23f0000e43f0000e63f0000e83f0000ea3f0000ec3f0000ee3f0000f03f0000f23f0000f43f0000f63f0000f83f0000fa3f0000fc3f0000fe3f00000040000002400000044000000640000028400000524100008c4100002242000092450000
->>>>>>> Stashed changes
-=======
-    m_SelectedIDs: d04f0000
-    m_LastClickedID: 20432
-    m_ExpandedIDs: ffffffff00000000484300004a430000ac620000bc6200002ab900002cb900002eb9000030b9000032b9000034b9000036b9000038b900003ab900003cb900003eb9000040b9000042b9000044b9000046b9000048b900004ab900004eb9000050b9000056b9000058b900005cb900005eb9000060b9000062b9000064b90000
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    m_SelectedIDs: 2ac80000
-    m_LastClickedID: 51242
-    m_ExpandedIDs: ffffffff00000000e0430000e2430000d4620000ec620000166300000ac800000cc800000ec8000010c8000012c8000014c8000016c8000018c800001ac800001cc800001ec8000020c8000022c8000026c8000028c800002ac800002cc800002ec8000030c8000032c8000034c8000036c8000038c800003ac800004ac8000052c80000
->>>>>>> Stashed changes
+    m_SelectedIDs: 1ec30000
+    m_LastClickedID: 49950
+    m_ExpandedIDs: ffffffff00000000e2430000e4430000d6620000ee6200000663000018630000fec2000000c3000002c3000004c3000006c3000008c300000ac300000cc300000ec3000010c3000012c3000014c3000016c3000018c300001ac300001cc300001ec3000020c3000022c3000024c3000026c3000028c300002ac300002cc3000058c3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1548,19 +618,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    m_ExpandedIDs: ffffffff0000000054430000564300001e620000386200005062000062620000e6c00000e8c00000eac00000ecc00000eec00000f0c00000f2c00000f4c00000f6c00000f8c00000fac00000fcc00000fec0000000c1000002c1000004c1000006c1000008c100000ac100000cc100000ec1000010c1000012c1000014c1000048c1000000ca9a3b
-=======
-    m_ExpandedIDs: dcf3faffffffffff00000000863c0000cc3f0000ce3f0000d63f0000d83f0000da3f0000dc3f0000de3f0000e03f0000e23f0000e43f0000e63f0000e83f0000ea3f0000ec3f0000ee3f0000f03f0000f23f0000f43f0000f63f0000f83f0000fa3f0000fc3f0000fe3f00000040000002400000044000000640000028400000524100008c4100002242000092450000
->>>>>>> Stashed changes
-=======
-    m_ExpandedIDs: ffffffff00000000484300004a430000ac620000bc6200002ab900002cb900002eb9000030b9000032b9000034b9000036b9000038b900003ab900003cb900003eb9000040b9000042b9000044b9000046b9000048b900004ab900004eb9000050b9000056b9000058b900005cb900005eb9000060b9000062b9000064b90000
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-    m_ExpandedIDs: ffffffff00000000e0430000e2430000d4620000ec620000166300000ac800000cc800000ec8000010c8000012c8000014c8000016c8000018c800001ac800001cc800001ec8000020c8000022c8000026c8000028c800002ac800002cc800002ec8000030c8000032c8000034c8000036c8000038c800003ac800004ac8000052c80000
->>>>>>> Stashed changes
+    m_ExpandedIDs: ffffffff00000000e2430000e4430000d6620000ee6200000663000018630000fec2000000c3000002c3000004c3000006c3000008c300000ac300000cc300000ec3000010c3000012c3000014c3000016c3000018c300001ac300001cc300001ec3000020c3000022c3000024c3000026c3000028c300002ac300002cc3000058c3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1576,7 +634,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1588,7 +646,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1615,21 +673,8 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-<<<<<<< Updated upstream
   m_DirectoriesAreaWidth: 115
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 --- !u!114 &16
-=======
---- !u!114 &22
->>>>>>> Stashed changes
-=======
---- !u!114 &21
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
-  m_DirectoriesAreaWidth: 110
---- !u!114 &19
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1649,36 +694,15 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    x: 1489
+    x: 1491
     y: 73
-    width: 430
+    width: 428
     height: 926
-=======
-    x: 2178
-=======
-    x: 2208
->>>>>>> Stashed changes
-    y: 81
-    width: 343
-    height: 1270
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-    x: 1975
-    y: 81
-    width: 576
-    height: 1270
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
->>>>>>> Stashed changes
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: 160
+    m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
@@ -1688,19 +712,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 --- !u!114 &17
-=======
---- !u!114 &23
->>>>>>> Stashed changes
-=======
---- !u!114 &22
->>>>>>> parent of e829b46e... Main Menu Music Edit
-=======
---- !u!114 &20
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
