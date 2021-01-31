@@ -57717,12 +57717,13 @@ MonoBehaviour:
   speed: 3
   jumpForce: 5
   grassClips:
-  - {fileID: 8300000, guid: 46137d883fefd26469b7a5be72dcb01c, type: 3}
-  - {fileID: 8300000, guid: 7db4ac47b46979945807c345a4c5d0ab, type: 3}
-  - {fileID: 8300000, guid: 73721e3f3b1e850418427cd4fd5d4d92, type: 3}
-  - {fileID: 8300000, guid: 4f1762cfe7602bf45b3d865af0468d41, type: 3}
-  - {fileID: 8300000, guid: 6686f78b41b0df34ca16773fa8a1eed9, type: 3}
-  - {fileID: 8300000, guid: efc850f41e2a55f4c8e5f91e3c8a17fe, type: 3}
+  - {fileID: 8300000, guid: 52e268d92abba1f4dbabc2a920052f05, type: 3}
+  - {fileID: 8300000, guid: f99952901b152e949b1ae8431dfcaf5f, type: 3}
+  - {fileID: 8300000, guid: 89ebc1bae8ac85344a3d3ffa14cc7853, type: 3}
+  - {fileID: 8300000, guid: ca97f83c31b62e34f9fd6a93d9577aa3, type: 3}
+  - {fileID: 8300000, guid: f3ef5219fe1504b4684f0e731e58135b, type: 3}
+  - {fileID: 8300000, guid: 281de71cff467f04cb840f456a1023f0, type: 3}
+  - {fileID: 8300000, guid: 7da13ea71d5c6034581f5b626a6b0944, type: 3}
 --- !u!1 &8283103561531077701
 GameObject:
   m_ObjectHideFlags: 0
