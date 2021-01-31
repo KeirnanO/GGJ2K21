@@ -1,2 +1,7 @@
-Base path: 'D:/Unity Engines/2020.1.4f1/Editor/Data', plugins path 'D:/Unity Engines/2020.1.4f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2020.1.4f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.1.4f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+<<<<<<< HEAD
+=======
+
+Quitting shader compiler process
+>>>>>>> parent of 44c9f09... Post Processing
