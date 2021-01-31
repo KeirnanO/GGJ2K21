@@ -241,6 +241,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12046}
     - Class: 114
+      Script: {instanceID: 12098}
+    - Class: 114
       Script: {instanceID: 12136}
     - Class: 114
       Script: {instanceID: 12184}
@@ -368,6 +370,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12080}
     - Class: 114
+      Script: {instanceID: 12098}
+    - Class: 114
       Script: {instanceID: 12136}
     - Class: 114
       Script: {instanceID: 12184}
@@ -420,9 +424,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14420}
     - Class: 114
-      Script: {instanceID: 17304}
+      Script: {instanceID: 23032}
     - Class: 114
-      Script: {instanceID: 17312}
+      Script: {instanceID: 23038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 117
@@ -640,7 +644,7 @@ ScriptsOnlyBuild:
     className: AuraBaseSettings
   - hash:
       serializedVersion: 2
-      Hash: 62d4233d02808ca776345ca39e4d0f13
+      Hash: 1cb56c4ba663fc899ad0fd0e1a5f5f37
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: LanternController
