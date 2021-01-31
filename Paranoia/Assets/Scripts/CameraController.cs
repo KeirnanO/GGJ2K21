@@ -7,8 +7,7 @@ public class CameraController : MonoBehaviour
     public GameObject playerObject;
 
     public Transform pivot;
-    public Vector3 offset;
-
+    public Vector3 offset; 
 
     // Start is called before the first frame update
     void Start()
