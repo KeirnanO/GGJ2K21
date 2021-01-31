@@ -6,7 +6,7 @@ public class LanternController : MonoBehaviour
 {
     public Transform target;
     
-    //bool moving;
+    bool moving;
 
     List<Transform> waypoints = new List<Transform>();
     int currWaypoint = -1;
@@ -26,6 +26,7 @@ public class LanternController : MonoBehaviour
 
    IEnumerator Move()
     {
+        moving = true;
         currWaypoint++;
         target = waypoints[currWaypoint];
         
@@ -36,15 +37,17 @@ public class LanternController : MonoBehaviour
 
             yield return new WaitForEndOfFrame();
         }
+
+        moving = false;
     }
 
 
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerStay(Collider other)
     {
         if(other.tag.Equals("Player"))
         {
-            if (currWaypoint < waypoints.Count)
+            if (currWaypoint < waypoints.Count && !moving)
             {
                 StopAllCoroutines();
                 StartCoroutine(Move());

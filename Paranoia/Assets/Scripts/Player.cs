@@ -7,6 +7,8 @@ public class Player : MonoBehaviour
     protected CharacterController controller;
     protected Rigidbody rb;
 
+    AudioSource audioSource;
+
     Vector3 playerVelocity;
 
     public float speed;
@@ -16,6 +18,9 @@ public class Player : MonoBehaviour
 
     protected Vector3 moveDirection = Vector3.zero;
 
+
+    public AudioClip[] grassClips;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,15 +28,25 @@ public class Player : MonoBehaviour
 
         controller = GetComponent<CharacterController>();
         rb = GetComponent<Rigidbody>();
+        audioSource = GetComponent<AudioSource>();
+
+        StartCoroutine(Walking());
     }
 
     // Update is called once per frame
     void Update()
     {
+
         //Ground 
         if(controller.isGrounded)
         {
-            grounded = true;
+            if (!grounded)
+            {
+                grounded = true;
+
+                int ran = Random.Range(0, grassClips.Length);
+                audioSource.PlayOneShot(grassClips[ran]);
+            }
             playerVelocity.y = 0;
         }
 
@@ -72,6 +87,36 @@ public class Player : MonoBehaviour
             }
         }
     }
+
+    IEnumerator Walking()
+    {
+        float time = 0;
+
+        while (true)
+        {
+            while (moveDirection.magnitude > 0 && grounded)
+            {
+                //Value for how fast walking
+                float timeToStep = 1.5f / moveDirection.magnitude;
+
+                //Play oneshot based on value'
+                if (time > timeToStep)
+                {
+                    int ran = Random.Range(0, grassClips.Length);
+                    audioSource.PlayOneShot(grassClips[ran]);
+
+                    time = 0;
+                }
+
+                time += Time.deltaTime;
+
+                yield return new WaitForEndOfFrame();
+            }
+
+            yield return new WaitForEndOfFrame();
+        }
+    }
+
 
     private void FixedUpdate()
     {
