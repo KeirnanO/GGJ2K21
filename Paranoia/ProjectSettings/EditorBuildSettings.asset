@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/New Scene.unity
-    guid: 5cc0497faa3f20948a7ea2f7e81c7710
+    path: Assets/SlimUI/Modern Menu 1/Scenes/Menu_Scene.unity
+    guid: 829a86ba161cdd840842063447f41aab
   - enabled: 1
     path: Assets/Scenes/Lantern Beginnings.unity
     guid: c4e4f7b5731aef34fbbd4351ae76a83f
